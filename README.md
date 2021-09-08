@@ -1,5 +1,5 @@
 # task_muppet
-We do what we must, because we can.
+Because I can.
 
 ## What is this?
 Right now, vaporware. 
